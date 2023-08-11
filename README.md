@@ -4,11 +4,23 @@
 <a href="https://instagram.com/iillumination" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <p></p>
 
+<style>
+    .markdown-card {
+        max-width: 300em;
+    }
+</style>
+
+<div class="markdown-card">
+
 ![ilumn's Stats](https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
 ![ilumn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilumn&theme=gruvbox&hide_border=false)
 
 ![ilumn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false)
+
+</div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
