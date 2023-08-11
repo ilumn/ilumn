@@ -6,11 +6,11 @@
 <p></p>
 
 
-<p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="ilumn's Stats" /></p>
+<p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="ilumn's Stats" /></p>
 
-<p><img align="center" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilumn&theme=gruvbox&hide_border=false" alt="ilumn's Streak" /></p>
+<p><img align="center" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilumn&theme=gruvbox&hide_border=true" alt="ilumn's Streak" /></p>
 
-<p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false" alt="ilumn's Top Languages" /></p>
+<p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilumn&theme=gruvbox&show_icons=true&hide_border=true" alt="ilumn's Top Languages" /></p>
 
 
 
