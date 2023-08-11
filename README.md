@@ -4,21 +4,12 @@
 <a href="https://instagram.com/iillumination" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <p></p>
 
-<style>
-    .markdown-card {
-        max-width: 300em;
-    }
-</style>
 
-<div class="markdown-card">
+<p><img align="center" width="300em" src="https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="ilumn's Stats" /></p>
 
-![ilumn's Stats](https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+<p><img align="center" width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilumn&theme=gruvbox&hide_border=false" alt="ilumn's Streak" /></p>
 
-![ilumn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilumn&theme=gruvbox&hide_border=false)
-
-![ilumn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false)
-
-</div>
+<p><img align="center" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false" alt="ilumn's Top Languages" /></p>
 
 
 
