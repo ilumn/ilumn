@@ -1,20 +1,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilumn&label=Profile%20views&color=0e75b6&style=flat" alt="ilumn" /> </p>
 
-<div> <a href="https://github.com/ilumn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/iillumination" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<p></p>
+<div align="left"> 
+  <a href="https://github.com/ilumn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/iillumination" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="ilumn's Stats" /></p>
+    <p><img align="center" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilumn&theme=gruvbox&hide_border=false" alt="ilumn's Streak" /></p>
+    <p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false" alt="ilumn's Top Languages" /></p>
+  </div>
 
-<p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="ilumn's Stats" /></p>
-
-<p><img align="center" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilumn&theme=gruvbox&hide_border=false" alt="ilumn's Streak" /></p>
-
-<p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilumn&theme=gruvbox&show_icons=true&hide_border=false" alt="ilumn's Top Languages" /></p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+  <div style="margin-left: 20px;">
+    <h3 align="left">Languages and Tools:</h3>
+    <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
@@ -45,4 +45,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+    </p>
+  </div>
