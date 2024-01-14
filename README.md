@@ -1,4 +1,4 @@
-<img src="https://see.fontimg.com/api/renderfont4/Ean4j/eyJyIjoiZnMiLCJoIjo3MSwidyI6MTAwMCwiZnMiOjcxLCJmZ2MiOiIjRkZDNTREIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2VsY29tZQ/punk-cyber-demo-extrude.png" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilumn&label=Profile%20views&color=0e75b6&style=flat" alt="ilumn" /> </p>
 
 <div> <a href="https://github.com/ilumn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
