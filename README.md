@@ -1,10 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilumn&label=Profile%20views&color=0e75b6&style=flat" alt="ilumn" /> </p>
 
-<div> <a href="https://github.com/ilumn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/iilllumination" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<p></p>
-
 
 <p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=ilumn&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="ilumn's Stats" /></p>
 
